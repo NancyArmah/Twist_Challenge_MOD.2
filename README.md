@@ -40,9 +40,13 @@ The formula for a simple linear regression is:
         y=ax+b
 
 
-b = slope
-a = intercept
-y = y- coordinate
-x = x-coordinate
+b = slope  
+
+a = intercept  
+
+y = y- coordinate  
+
+x = x-coordinate  
+
 
 
