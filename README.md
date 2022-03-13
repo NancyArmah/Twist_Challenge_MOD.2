@@ -37,5 +37,12 @@ Simple linear regression is used to estimate the relationship between two quanti
 
 The formula for a simple linear regression is:
 
-        y=\alpha+ \beta x
+        y=ax+b
+
+
+b = slope
+a = intercept
+y = y- coordinate
+x = x-coordinate
+
 
