@@ -48,5 +48,16 @@ y = y- coordinate
 
 x = x-coordinate  
 
+The correlation between total years experience and total compensation was 0.11. Even though there is a positive relationship between the two, the relationship is not a strong one per our data. 
+
+After, the model is built by passing the x and y values through the regression model in sckit learn and our predicted values are generated.
+
+## Building the Interactive DashBoard
+
+The dashboard creation was the longest and most challenging part of this project. I started with PowerBi and Tableau but had to be dropped because of the difficulty in running a python script with the model in the app.
+
+Finally settled on dash but it wasnt as interactive as id like because i spent too much time trying to figure powerbi and tableau out because i have experience using them.
+
+Even though i have to submit this, i will keep working on the dashboard till i get it perfected and interractive.
 
 
